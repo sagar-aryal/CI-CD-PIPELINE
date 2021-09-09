@@ -23,4 +23,5 @@ Run automated end-to-end tests against the environments you deployed your applic
 ### STEPS:
 
 - Create .github/workflows/main.yml file under the project.
--
+
+- Go to action and create status badge and add to read me file.
