@@ -1,4 +1,8 @@
-# CI_CD_Pipeline
+# CI_CD_Pipeline demo with Github
+
+### status badge
+
+[![.github/workflows/main.yml](https://github.com/sagar-aryal/CI-CD-Pipeline/actions/workflows/main.yml/badge.svg)](https://github.com/sagar-aryal/CI-CD-Pipeline/actions/workflows/main.yml)
 
 ### Build
 
@@ -15,3 +19,8 @@ Deploy the application to a number of environments. Often to a staging or pre-pr
 ### Test
 
 Run automated end-to-end tests against the environments you deployed your application to in the previous step.
+
+### STEPS:
+
+- Create .github/workflows/main.yml file under the project.
+-
